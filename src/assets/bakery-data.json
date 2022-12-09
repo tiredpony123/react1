@@ -1,0 +1,124 @@
+[
+    {
+        "name": "Berry Cheescake",
+        "description": "Cheesecake topped with fresh berries",
+        "type": "cheesecake",
+        "dietary": [],
+        "price": 10.50,
+        "popular": 10,
+        "image": "images/berrycheesecake.jpeg"
+    },
+    {
+        "name": "Chocolate Cheescake",
+        "description": "Milk and dark chocolate drizzle cheescake",
+        "type": "cheesecake",
+        "dietary": ["nut-free"],
+        "price": 10.50,
+        "popular": 5,
+        "image": "images/chocolatecheesecake.jpeg"
+    },
+    {
+        "name": "Lemon Cheescake",
+        "description": "Cheescake with a lemon marmelade topping",
+        "type": "cheesecake",
+        "dietary": ["gluten-free"],
+        "price": 10.50,
+        "popular": 1,
+        "image": "images/lemoncheesecake.jpeg"
+    },
+
+
+
+    {
+        "name": "Butter Croissant",
+        "description": "Warmlt served fresh butter croissants",
+        "type": "croissant",
+        "dietary": ["nut-free"],
+        "price": 4.50,
+        "popular": 8,
+        "image": "images/croissant.jpeg"
+    },
+    {
+        "name": "Pain au Chocolat",
+        "description": "Pastry filled with Belgian chocolate",
+        "type": "croissant",
+        "dietary": [],
+        "price": 5.50,
+        "popular": 2,
+        "image": "images/painauchocolat.jpeg"
+    },
+
+
+
+    {
+        "name": "Chocolate Eclair",
+        "description": "Filled with cream, topped with chocolate icing",
+        "type": "eclair",
+        "dietary": ["nut-free"],
+        "price": 1.00,
+        "popular": 7,
+        "image": "images/chocolateeclair.jpg"
+    },
+    {
+        "name": "Lemon Eclair",
+        "description": "Filled with cream, topped with lemon icing",
+        "type": "eclair",
+        "dietary": ["nut-free"],
+        "price": 1.50,
+        "popular": 9,
+        "image": "images/lemoneclair.jpeg"
+    },
+
+
+
+
+    {
+        "name": "Strawberry Cake",
+        "description": "Layered cake filled with vanilla cream and straweberries",
+        "type": "cake",
+        "dietary": [],
+        "price": 5.50,
+        "popular": 6,
+        "image": "images/strawberrycake.jpeg"
+    },
+    {
+        "name": "Chocolate Cake",
+        "description": "Chocolate cakke served with vanilla ice cream",
+        "type": "cake",
+        "dietary": ["gluten-free"],
+        "price": 4.50,
+        "popular": 3,
+        "image": "images/chocolatecake.jpeg"
+    },
+    {
+        "name": "Matcha Cake",
+        "description": "Macha cake with lavender filling",
+        "type": "cake",
+        "dietary": ["nut-free", "dairy-free"],
+        "price": 7.00,
+        "popular": 12,
+        "image": "images/matchacake.jpeg"
+    },
+
+
+
+    {
+        "name": "Pumpkin Pie",
+        "description": "A fall classic",
+        "type": "pie",
+        "dietary": ["dairy-free"],
+        "price": 6.50,
+        "popular": 4,
+        "image": "images/pumpkinpie.jpeg"
+    },
+    {
+        "name": "Fruit Pie",
+        "description": "Topped with seasonal fruits",
+        "type": "pie",
+        "dietary": ["nut-free"],
+        "price": 7.00,
+        "popular": 11,
+        "image": "images/fruitpie.jpeg"
+    }
+    
+  ]
